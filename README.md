@@ -16,7 +16,7 @@
 JavaScript | HTML |CSS | ES6 |  Python |  Programming |  Web Development
 
 ## About :sunglasses:
-B.tech 4th year Electronics and Communication Engineering student. Currently working as a Trainee in Simform. Passionate about JavaScript, Web Development and open source. Also, have some experience in Web Development.
+B.tech 4th year Electronics and Communication Engineering student. Currently working as a Software Developer in Capgemini. Passionate about JavaScript, Web Development and open source. Also, have some experience in Web Development.Gaining experience in Java Full Stack Development.
 
 ## Technologies :fire:
 - **JavaScript**.
